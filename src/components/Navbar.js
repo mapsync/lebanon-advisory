@@ -22,14 +22,11 @@ const Navbar = class extends React.Component {
             <Link to="/" className="btn btn-link" title="Logo">
               <img src="/img/small-logo.png" alt="" />
             </Link>
+            <div className="btn btn-link"></div>
             <Link className="btn pt-2" activeClassName="active" to="/contact">
               <Icon.Phone size={26}/>
               <div>Contact</div>
             </Link>
-            <a className="btn pt-2" rel="noopener noreferrer" href="https://paintsvilleutilities.epayub.com" target="_blank">
-              <Icon.DollarSign size={26}/>
-              <div>Bill Pay</div>
-            </a>
           </div>
         </div>
       </div>
@@ -50,12 +47,10 @@ const Navbar = class extends React.Component {
             </Link>
           </section>
           <section className="navbar-section">
+            <div className="btn btn-link"></div>
             <Link className="btn btn-link" activeClassName="active" to="/contact">
               Contact
             </Link>
-            <a className="btn btn-link" rel="noopener noreferrer" href="https://paintsvilleutilities.epayub.com" target="_blank">
-              Bill Pay&nbsp;<Icon.ExternalLink size={16}/>
-            </a>
           </section>
         </header>
       </div>
