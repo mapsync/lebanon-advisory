@@ -52,8 +52,5 @@ collections:
           - {label: "Phone", name: "phone", widget: "string", required: false}
           - {label: "After Hours Phone", name: "after_hours_phone", widget: "string", required: false}
           - {label: "Fax", name: "fax", widget: "string", required: false}
-          - {label: "Email", name: "email", widget: "string", required: false}
-          - {label: "Hours", name: "hours", widget: "string", required: false}
           - {label: "Website", name: "website", widget: "string", required: false}
-          - {label: "Facebook", name: "facebook", widget: "string", required: false}
           - {label: "Body", name: "body", widget: "markdown"}

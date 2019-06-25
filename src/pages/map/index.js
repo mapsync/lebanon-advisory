@@ -3,7 +3,7 @@ import Layout from '../../components/Layout'
 
 export default class Index extends React.Component {
   componentDidMount() {
-    document.getElementById("map").src = "https://geosync.cloud/maps/c7028e29-93b1-4897-8de9-73cb6dff8d14" + this.props.location.search;
+    document.getElementById("map").src = "https://geosync.cloud/maps/17070e7e-d0f7-46be-9c0f-ab6f956e6990" + this.props.location.search;
   }
 
   render() {
