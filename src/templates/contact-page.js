@@ -88,9 +88,7 @@ const ContactPage = ({ data }) => {
         phone={post.frontmatter.phone}
         after_hours_phone={post.frontmatter.after_hours_phone}
         fax={post.frontmatter.fax}
-        email={post.frontmatter.email}
-        hours={post.frontmatter.hours}
-        websites={post.frontmatter.websites}
+        website={post.frontmatter.website}
         contentComponent={HTMLContent}
         content={post.html}
       />
@@ -116,8 +114,7 @@ export const contactPageQuery = graphql`
         phone,
         after_hours_phone,
         fax,
-        email,
-        hours
+        website
       }
     }
   }
