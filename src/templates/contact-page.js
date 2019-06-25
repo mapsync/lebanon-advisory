@@ -37,7 +37,7 @@ export const ContactPageTemplate = ({ content, contentComponent, name, address, 
           <div className="card-body">
             T: <a href={"tel:1-" + phone}>{phone}</a><br />
             F: {fax}<br />
-            Emergency After Hours &amp; Sewer Problems - Lebanon Police Dept:
+            Emergency After Hours &amp; Sewer Problems - Lebanon Police Dept: 
              <a href={"tel:1-" + after_hours_phone}>{after_hours_phone}</a><br />
             Leave Name, Address &amp; Phone Number and state problem.
           </div>
