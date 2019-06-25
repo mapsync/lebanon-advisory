@@ -32,34 +32,34 @@ Telephone: 270-699-2145
 
 John O. Thomas, City Administrator, Building Inspector &amp; Zoning  
 Telephone: 270-692-6272  
-Email: jthomas@lebanonky.org
+Email: <a href="mailto:jthomas@lebanonky.org">jthomas@lebanonky.org</a>
 
 Nikki Wheatley, City Clerk/Treasurer  
 Telephone: 270-692-6272  
-Email: nblack@lebanonky.org
+Email: <a href="mailto:nblack@lebanonky.org">nblack@lebanonky.org</a>
 
 Wally Brady, Police Chief  
 Telephone: 270-692-2121  
-Email: wbrady@lebanonky.org
+Email: <a href="mailto:wbrady@lebanonky.org">wbrady@lebanonky.org</a>
 
 Greg Young, Assistant Police Chief  
 Telephone: 270-692-2121  
-Email: gyoung@lebanonky.org
+Email: <a href="mailto:gyoung@lebanonky.org">gyoung@lebanonky.org</a>
 
 Terry Bland, Public Works Director  
 Telephone: 270-692-4934  
-Email: publicworks101@gmail.com
+Email: <a href="mailto:publicworks101@gmail.com">publicworks101@gmail.com</a>
 
 Eddie Masterson, Wastewater Superintendent  
 Telephone: 270-692-6202  
-Email: emasterson@lebanonky.org
+Email: <a href="mailto:emasterson@lebanonky.org">emasterson@lebanonky.org</a>
 
 Charlsie Garrett, Park Aquatics Director  
 Telephone: 270-692-9358  
-Email: charlsiegarrett@yahoo.com
+Email: <a href="mailto:charlsiegarrett@yahoo.com">charlsiegarrett@yahoo.com</a>
 
 Richard A. Mattingly, Fire Chief  
 Telephone: 270-692-6830  
-Email: fire_house@lebanonky.org
+Email: <a href="mailto:fire_house@lebanonky.org">fire_house@lebanonky.org</a>
 
 City Council meetings are held the first Monday after the first Tuesday of each month at 7:00 p.m. at City Hall
