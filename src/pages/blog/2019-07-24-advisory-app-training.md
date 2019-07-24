@@ -12,3 +12,5 @@ We are training on our new advisory app....
 * blah
 * blah
 * blah
+
+[See Map](/map/?layer=Advisory&feature=0)
