@@ -51,7 +51,7 @@ Telephone: 270-692-2121\
 Email: <a href="mailto:gyoung@lebanonky.org">gyoung@lebanonky.org</a>
 
 Terry Bland, Public Works Director\
-Telephone: 270-692-4934\
+Telephone: 270-402-7224\
 Email: <a href="mailto:publicworks101@gmail.com">publicworks101@gmail.com</a>
 
 Eddie Masterson, Wastewater Superintendent\
