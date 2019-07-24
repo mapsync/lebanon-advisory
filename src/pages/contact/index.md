@@ -4,13 +4,13 @@ name: City of Lebanon
 address: 240 W. Main St.
 mailing_address: P.O. Box 840
 city_state_zip: 'Lebanon, KY 40033'
-phone: 606-692-6272
+phone: 270-692-6272
 after_hours_phone: 270-692-2121
-fax: 606-692-4638
+fax: 270-692-4638
 website: 'https://lebanon.ky.gov'
 ---
 Gary D. Crenshaw, Mayor\
-Telephone: 270-692-9197
+Telephone: 270-692-6272
 
 Jerry Abell, City Council\
 Telephone: 270-402-7610
