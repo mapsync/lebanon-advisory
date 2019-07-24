@@ -60,7 +60,7 @@ Email: <a href="mailto:emasterson@lebanonky.org">emasterson@lebanonky.org</a>
 
 Charlsie Garrett, Park Aquatics Director\
 Telephone: 270-692-9358\
-Email: <a href="mailto:charlsiegarrett@yahoo.com">charlsiegarrett@yahoo.com</a>
+Email: <a href="mailto:cgarrett@lebanonky.org">cgarrett@lebanonky.org</a>
 
 Richard A. Mattingly, Fire Chief\
 Telephone: 270-692-6830\
