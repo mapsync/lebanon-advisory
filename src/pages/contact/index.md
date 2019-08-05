@@ -46,6 +46,14 @@ Jessica Roller, Tax Administrator\
 Telephone: 270-692-6272\
 Email: <a href="mailto:jroller@lebanonky.org">jroller@lebanonky.org</a>
 
+Jessica Porter, Asst. City Clerk/Accounts Payable\
+Telephone: 270-692-6272\
+Email: <a href="mailto:jporter@lebanonky.org">jporter@lebanonky.org</a>
+
+Adrienne Spalding, Secretary/Receptionist & Property Tax Collection\
+Telephone: 270-692-6272\
+Email: <a href="mailto:aspalding@lebanonky.org">aspalding@lebanonky.org</a>
+
 Wally Brady, Police Chief\
 Telephone: 270-692-2121\
 Email: <a href="mailto:wbrady@lebanonky.org">wbrady@lebanonky.org</a>
