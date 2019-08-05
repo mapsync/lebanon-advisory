@@ -42,6 +42,10 @@ Nikki Wheatley, City Clerk/Treasurer\
 Telephone: 270-692-6272\
 Email: <a href="mailto:nblack@lebanonky.org">nblack@lebanonky.org</a>
 
+Jessica Roller, Tax Administrator\
+Telephone: 270-692-6272\
+Email: <a href="mailto:jroller@lebanonky.org">jroller@lebanonky.org</a>
+
 Wally Brady, Police Chief\
 Telephone: 270-692-2121\
 Email: <a href="mailto:wbrady@lebanonky.org">wbrady@lebanonky.org</a>
@@ -61,6 +65,10 @@ Email: <a href="mailto:emasterson@lebanonky.org">emasterson@lebanonky.org</a>
 Charlsie Garrett, Park Aquatics Director\
 Telephone: 270-692-9358\
 Email: <a href="mailto:cgarrett@lebanonky.org">cgarrett@lebanonky.org</a>
+
+Joe Lewis, Park Director\
+Telephone: 270-692-1155\
+Email: <a href="mailto:jlewis@lebanonky.org">jlewis@lebanonky.org</a>
 
 Richard A. Mattingly, Fire Chief\
 Telephone: 270-692-6830\
